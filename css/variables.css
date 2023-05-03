@@ -1,0 +1,19 @@
+:root {
+  /* ! FONT FAMILY */
+
+  --main-family: "Jost", sans-serif;
+
+  /* ! COLORS */
+
+  --main-color: #ffffff;
+  --secondary-color: #000000;
+  --primary-color: #ababab;
+
+  /* ! FON SIZE */
+
+  --main-size: 18px;
+  --nav-size: 20px;
+  --sections-title-size: 47px;
+  --function-title-size: 22px;
+  --footer-title-size: 28px;
+}
